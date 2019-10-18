@@ -1,0 +1,24 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "My tests with blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NovikovaNS/blockchain.git"
+  },
+  "keywords": [
+    "blockchain",
+    "solidity",
+    "ethereum"
+  ],
+  "author": "novikovans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NovikovaNS/blockchain/issues"
+  },
+  "homepage": "https://github.com/NovikovaNS/blockchain#readme"
+}
